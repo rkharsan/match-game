@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/match-game/static/css/main.de9c6553.css",
+    "main.js": "/match-game/static/js/main.2f2cc039.js",
+    "index.html": "/match-game/index.html",
+    "main.de9c6553.css.map": "/match-game/static/css/main.de9c6553.css.map",
+    "main.2f2cc039.js.map": "/match-game/static/js/main.2f2cc039.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de9c6553.css",
+    "static/js/main.2f2cc039.js"
+  ]
+}
