@@ -1,6 +1,7 @@
 {
   "name": "match-two-game",
   "version": "0.1.0",
+  "homepage": "https://rkharsan.github.io/match-game",
   "private": true,
   "dependencies": {
     "react": "^18.1.0",
